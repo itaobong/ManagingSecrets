@@ -63,7 +63,3 @@ This endpoint retrieves the value of a specified setting from the app settings c
 
 To consume the API and interact with the endpoints, you can make HTTP requests to the corresponding routes using a tool like `curl`, `Postman`, or through code in your application.
 
-Here are some examples using `curl`:
-
-- Retrieve the value of a local secret:
-
